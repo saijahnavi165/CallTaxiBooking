@@ -1,5 +1,6 @@
 # CallTaxiBooking
 Created using Java in VisualCode Editor
+Every line of code explained accordingly in the code.
 
 A call taxi operator has a fleet of "n" cars. For simplicity take the count as 5 but the program
 should work for any number of Taxis. (Let their names be identified as Taxi-1, Taxi-2 ....
